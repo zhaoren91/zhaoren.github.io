@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 **Zhao Ren** is a *Research Assistant* & *PhD Candidate* supervised by <a href="http://www.schuller.one/" target="_blank">Prof. Björn W. Schuller</a> in the <a href="https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/eihw/" target="_blank">Embedded Intelligence for Health Care and Wellbeing (EIHW)</a>, <a href="https://www.uni-augsburg.de/en/" target="_blank">University of Augsburg</a>, Germany. She received her bachelor's and master's degrees in Computer Science and Technology from the <a href="https://en.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical University (NWPU)</a>, China, in 2013 and 2017, respectively.
 
