@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
+{% include base_path %}
 
 # Teaching at University of Augsburg
 * WS 2020/21

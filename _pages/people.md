@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: false
 ---
-
+{% include base_path %}
 
 # Master Students
 1. Mr Fabio Hellmann, "Deformable faster-RCNN for lesion detection in CT images", Master thesis, University of Augsburg, Germany, co-supervised with Thomas Wiest, 07/2020-11/2020.

@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: false
 ---
+{% include base_path %}
 
 Chair of Embedded Intelligence for Health Care and Wellbeing, University of Augsburg
 

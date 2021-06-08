@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: false
 ---
+{% include base_path %}
 
 <a href="" target="_blank"></a>
 # AUDI0NOMOUS: Agent-based Unsupervised Deep Interactive 0-shot-learning Networks Optimising Machines’ Ontological Understanding of Sound <br>DFG (German Research Foundation) Reinhart Koselleck-Projekt (No. 442218748)

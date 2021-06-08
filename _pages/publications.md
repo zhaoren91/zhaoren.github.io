@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Please see the full list of her publications in <a href="https://scholar.google.com/citations?user=Klrd5CQAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> or <a href="https://www.overleaf.com/read/ntwkbkrzrgxx" target="_blank">Overleaf</a>.
 
@@ -46,10 +51,4 @@ Please see the full list of her publications in <a href="https://scholar.google.
 
 * Qing Wang, Zhe Ji, Shu Han, Chunping Zhang, Zhao Ren, Guoqing Zhou, "An equipment and algorithms for light field camera extrinsic parameters calibration (光场相机外参数标定装置及方法)", No. CN105654484A, June 2016.
 
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
