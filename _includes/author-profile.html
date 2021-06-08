@@ -6,9 +6,9 @@
 
 <div class="author__avatar">
   {% if author.avatar contains "://" %}
-      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" style="border:0; border-radius: 0%; max-width: 200px">
   {% else %}
-      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" style="border:0; border-radius: 0%; max-width: 200px">
   {% endif %}
 </div>
   
