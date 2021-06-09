@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Projects"
-    url: /projects/    
-
   - title: "People"
     url: /people/    
+
+  - title: "Projects"
+    url: /projects/    
 
 #  - title: "Portfolio"
 #    url: /portfolio/
