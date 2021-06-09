@@ -17,7 +17,7 @@ Please see the full list of her publications in <a href="https://scholar.google.
 * N. Cummins, Z. Ren, A. Mallol-Ragolta, and B. Schuller, Artificial Intelligence in Precision Health, ch. Chapter 5 – Machine learning in digital health, recent trends, and ongoing challenges, pp. 121–148. Elsevier, 2020
 
 ## Journal Articles
-* Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “CAA-Net: Conditional atrous CNNs with attention for explainable device-robust acoustic scene classification,” IEEE Transactions on Multimedia, Nov. 2020. 12 pages <a href="https://github.com/EIHW/CAANet_DCASE_ASC" target="_blank">code</a>
+* Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “CAA-Net: Conditional atrous CNNs with attention for explainable device-robust acoustic scene classification,” IEEE Transactions on Multimedia, Nov. 2020. 12 pages [<a href="https://github.com/EIHW/CAANet_DCASE_ASC" target="_blank">code</a>]
 
 * F. Dong, K. Qian, Z. Ren, A. Baird, X. Li, Z. Dai, B. Dong, F. Metze, Y. Yamamoto, and B. Schuller, “Machine listening for heart status monitoring: Introducing and benchmarking HSS – the heart sounds Shenzhen corpus,” IEEE Journal of Biomedical and Health Informatics, vol. 24, pp. 2082–2092, Nov. 2019
 
@@ -26,13 +26,13 @@ Please see the full list of her publications in <a href="https://scholar.google.
 ## Conference Papers
 * Z. Ren, J. Han, N. Cummins, and B. Schuller, “Enhancing transferability of black-box adversarial attacks via lifelong learning for speech emotion recognition models,” in Proc. INTERSPEECH, (Shanghai, China), pp. 496–500, 2020
 
-* Z. Ren, A. Baird, J. Han, Z. Zhang, and B. Schuller, “Generating and protecting against adversarial attacks for deep speech-based emotion recognition models,” in Proc. ICASSP, (Barcelona, Spain), pp. 7184–7188, 2020 <a href="https://github.com/EIHW/Adversarial_Attacks_for_SER" target="_blank">code</a>
+* Z. Ren, A. Baird, J. Han, Z. Zhang, and B. Schuller, “Generating and protecting against adversarial attacks for deep speech-based emotion recognition models,” in Proc. ICASSP, (Barcelona, Spain), pp. 7184–7188, 2020 [<a href="https://github.com/EIHW/Adversarial_Attacks_for_SER" target="_blank">code</a>]
 
 * Z. Ren, J. Han, N. Cummins, Q. Kong, M. Plumbley, and B. Schuller, “Multi-instance learning for bipolar disorder diagnosis using weakly labelled speech data,” in Proc. DPH, (Marseille, France), pp. 79–83, 2019
 
 * F. Ringeval, B. Schuller, M. Valstar, N. Cummins, R. Cowie, L. Tavabi, M. Schmitt, S. Alisamir, S. Amiriparian, E.-M. Messner, S. Song, S. Liu, Z. Zhao, A. Mallol-Ragolta, Z. Ren, M. Soleymani, and M. Pantic, “AVEC 2019 workshop and challenge: State-of-mind, detecting depression with AI, and cross-cultural affect recognition,” in Proc. AVEC, (Nice, France), pp. 3–12, 2019
 
-* Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “Attention-based atrous convolutional neural networks: Visualisation and understanding perspectives of acoustic scenes,” in Proc. ICASSP, (Brighton, UK), pp. 56–60, 2019 <a href="https://github.com/EIHW/Attention-based_Atrous_CNN" target="_blank">code</a>
+* Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “Attention-based atrous convolutional neural networks: Visualisation and understanding perspectives of acoustic scenes,” in Proc. ICASSP, (Brighton, UK), pp. 56–60, 2019 [<a href="https://github.com/EIHW/Attention-based_Atrous_CNN" target="_blank">code</a>]
 
 * Z. Ren, Q. Kong, K. Qian, M. Plumbley, and B. Schuller, “Attention-based convolutional neural networks for acoustic scene classification,” in Proc. DCASE, (Surrey, UK), pp. 39–43, 2018
 
