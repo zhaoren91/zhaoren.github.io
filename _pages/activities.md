@@ -7,7 +7,7 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
-* Zhao Ren, "Towards Explainable and Robust Deep Neural Networks for Computer Audition", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, 24.02.2021.
+* Zhao Ren, "Towards Explainable and Robust Deep Neural Networks for Computer Audition", invited research talk at L3S Research Center, Gottfried Wilhelm Leibniz Universität Hannover, Germany, 24.02.2021.
 
 * Zhao Ren, "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
 
