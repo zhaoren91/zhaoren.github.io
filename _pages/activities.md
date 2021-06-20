@@ -12,6 +12,11 @@ author_profile: false
 * Zhao Ren, "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
 
 
+# Program Committees
+* Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia, Nice, France, 10.2019.
+
+
+
 # Reviews
 ## Journals
 * IEEE Transactions on Cybernetics
