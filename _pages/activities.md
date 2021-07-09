@@ -7,7 +7,7 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
-* Zhao Ren, "Towards Explainable and Robust Deep Neural Networks for Computer Audition", invited research talk at L3S Research Center, Gottfried Wilhelm Leibniz Universität Hannover, Germany, 24.02.2021.
+* Zhao Ren, "Towards explainable and robust deep neural networks for computer audition", invited research talk at L3S Research Center, Gottfried Wilhelm Leibniz Universität Hannover, Germany, 24.02.2021.
 
 * Zhao Ren, "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
 
@@ -34,6 +34,7 @@ author_profile: false
 * International Joint Conference on Neural Networks (IJCNN)
 * Detection and Classification of Acoustic Scenes and Events Workshop (DCASE)
 * European Signal Processing Conference (EUSIPCO)
+* ACM International Conference on Multimodal Interaction (ICMI)
 
 # Impressions
 * “<a href="https://phys.org/news/2018-04-comprehensive-acoustic-scene-analysis-method.html" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>”, in phys.org, 10.04.2018.
