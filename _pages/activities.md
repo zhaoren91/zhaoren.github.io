@@ -25,6 +25,7 @@ author_profile: false
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
 * IEEE Internet of Things Journal
 * IEEE Access
+* IEEE Sensors Letters
 * The Journal of the Acoustical Society of America
 * The Journal of the Acoustical Society of America Express Letters
 * Neural Processing Letters
