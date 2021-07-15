@@ -36,6 +36,7 @@ author_profile: false
 * Detection and Classification of Acoustic Scenes and Events Workshop (DCASE)
 * European Signal Processing Conference (EUSIPCO)
 * ACM International Conference on Multimodal Interaction (ICMI)
+* IEEE International Workshop on Multimedia Signal Processing (MMSP)
 
 # Impressions
 * “<a href="https://phys.org/news/2018-04-comprehensive-acoustic-scene-analysis-method.html" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>”, in phys.org, 10.04.2018.

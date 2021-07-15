@@ -11,12 +11,14 @@ redirect_from:
 
 Work Experience
 ======
+* 07.2021-Present: 
+  * Research Associate, Leibniz Universität Hannover, Germany.
 * 10.2020-12.2020: 
   * Internship, audEERING GmbH, Germany.
-* 10.2017-Present: 
-  * EU-Researcher, University of Augsburg, Germany.	
+* 10.2017-07.2021: 
+  * EU-Researcher, Universität Augsburg, Germany.	
 * 05.2017-09.2017: 
-  * Research Assistant, University of Passau, Germany.
+  * Research Assistant, Universität Passau, Germany.
 
 Education
 ======

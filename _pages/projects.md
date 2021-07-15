@@ -7,6 +7,17 @@ author_profile: false
 {% include base_path %}
 
 <a href="" target="_blank"></a>
+# <a href="https://leibniz-ai-lab.de/" target="_blank">Leibniz AI Lab</a>: International Leibniz Future Laboratory for Artificial Intelligence
+*Runtime*: 2020 - 2023
+
+*Role*: Participant
+
+*Partners*: Swinburne University of Technology, Stanford University, Nanyang Technological University, Indian Institute of Technology Kharagpur, University of Technology Sydney, Victoria University of Wellington, ADSC Illinois At Singapore Pte. Ltd., Edith Cowan University, Leibniz Universität Hannover, Medizinische Hochschule Hannover, Zentrum für Individualisierte Infektionsmedizin, Leibniz Alliance Hannover
+
+*Abstract*: The Leibniz Future Lab, funded by the Federal Ministry of Education and Research, bring together researchers from all over the world to work on the future of artificial intelligence (AI). The Leibniz Future Lab will focus on state-of-the-art research in artificial intelligence and also develop intelligent solutions for personalised medicine, which is supposed to achieve individual therapies, medication tailored to the individual patient and more precise diagnoses.
+
+
+<a href="" target="_blank"></a>
 # AUDI0NOMOUS: Agent-based Unsupervised Deep Interactive 0-shot-learning Networks Optimising Machines’ Ontological Understanding of Sound <br>DFG (German Research Foundation) Reinhart Koselleck-Projekt (No. 442218748)
 *Runtime*: 01.01.2021 - 31.12.2025
 
