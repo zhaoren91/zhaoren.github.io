@@ -12,9 +12,7 @@ Lange Laube 6, Room 611
 
 30159 Hannover, Germany
 
-E-Mail: zren@l3s.de
-
-Email: zhao.ren@informatik.uni-augsburg.de
+Email: zren@l3s.de
 
 Other information: <a href="https://www.researchgate.net/profile/Zhao-Ren-5" target="_blank">Research Gate</a>, <a href="https://www.linkedin.com/in/zhao-ren-107103135/" target="_blank">LinkedIn</a>, and <a href="https://twitter.com/zhaoren1991?lang=en" target="_blank">Twitter</a>.
 
