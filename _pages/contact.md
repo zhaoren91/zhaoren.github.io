@@ -6,11 +6,13 @@ author_profile: false
 ---
 {% include base_path %}
 
-Chair of Embedded Intelligence for Health Care and Wellbeing, University of Augsburg
+Forschungszentrum L3S, Leibniz Universität Hannover
 
-Eichleitnerstr. 30, F2, room 302
+Lange Laube 6, Room 611
 
-86159 Augsburg, Germany
+30159 Hannover, Germany
+
+E-Mail: zren@l3s.de
 
 Email: zhao.ren@informatik.uni-augsburg.de
 
