@@ -13,6 +13,7 @@ author_profile: false
 
 
 # Program Committees
+* Program committee member of the 23rd ACM International Conference on Multimodal Interaction, Montreal, Canada, 10.2021.
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia, Nice, France, 10.2019.
 
 
@@ -29,6 +30,7 @@ author_profile: false
 * The Journal of the Acoustical Society of America
 * The Journal of the Acoustical Society of America Express Letters
 * Neural Processing Letters
+* Physiological Measurement
 
 ## Conferences
 * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
