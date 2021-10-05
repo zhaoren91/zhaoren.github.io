@@ -23,6 +23,7 @@ author_profile: false
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Affective Computing
+* IEEE Journal of Selected Topics in Signal Processing
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
 * IEEE Internet of Things Journal
 * IEEE Access
