@@ -7,6 +7,8 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
+* Zhao Ren, "Multi-modal MIMIC-III ICU data: Recent AI breakthroughs", invited research talk at Medizinische Hochschule Hannover, Germany, 18.01.2022.
+
 * Zhao Ren, "Towards explainable and robust deep neural networks for computer audition", invited research talk at L3S Research Center, Gottfried Wilhelm Leibniz Universität Hannover, Germany, 24.02.2021.
 
 * Zhao Ren, "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.

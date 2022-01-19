@@ -10,7 +10,7 @@ author_profile: false
 # <a href="https://leibniz-ai-lab.de/" target="_blank">Leibniz AI Lab</a>: International Leibniz Future Laboratory for Artificial Intelligence
 *Runtime*: 2020 - 2023
 
-*Role*: Participant
+*Role*: Project coordinator
 
 *Partners*: Swinburne University of Technology, Stanford University, Nanyang Technological University, Indian Institute of Technology Kharagpur, University of Technology Sydney, Victoria University of Wellington, ADSC Illinois At Singapore Pte. Ltd., Edith Cowan University, Leibniz Universität Hannover, Medizinische Hochschule Hannover, Zentrum für Individualisierte Infektionsmedizin, Leibniz Alliance Hannover
 

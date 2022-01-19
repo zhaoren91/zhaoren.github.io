@@ -10,3 +10,6 @@ author_profile: false
 1. Mr Fabio Hellmann, "Deformable faster-RCNN for lesion detection in CT images", Master thesis, University of Augsburg, Germany, co-supervised with Thomas Wiest, 07/2020-11/2020.
 2. Mr Dennis Zürn, "Investigation of explainable AI techniques for computational paralinguistics", Master thesis, University of Augsburg, Germany, 08/2020-07/2021.
 3. Mr Yang Tian, "Adversarial attacks: A threat to deep speech-based end-to-end models for healthcare", Master thesis, University of Augsburg, Germany, co-supervised with Alice Baird, 10/2020-07/2021.
+4. Mr Quang Phu Quang Le, Master thesis, Leibniz University Hannover, Germany.
+5. Mr Ning Wang, Master thesis, Leibniz University Hannover, Germany.
+6. Mr Tianyi Zhou, Master thesis, Leibniz University Hannover, Germany.

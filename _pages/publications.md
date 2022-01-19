@@ -17,6 +17,8 @@ Please see the full list of her publications in <a href="https://scholar.google.
 * N. Cummins, Z. Ren, A. Mallol-Ragolta, and B. Schuller, Artificial Intelligence in Precision Health, ch. Chapter 5 – Machine learning in digital health, recent trends, and ongoing challenges, pp. 121–148. Elsevier, 2020
 
 ## Journal Articles
+* Y. Chang, X. Jing, Z. Ren, and B. Schuller, “CovNet: A transfer learning framework for automatic COVID-19 detection from crowd-sourced cough sounds,” Frontiers in Digital Health, vol. 3, pp. 1–11, Jan. 2022 [<a href="https://github.com/ychang74/CovNet" target="_blank">code</a>]
+
 * Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “CAA-Net: Conditional atrous CNNs with attention for explainable device-robust acoustic scene classification,” IEEE Transactions on Multimedia, Nov. 2020. 12 pages [<a href="https://github.com/EIHW/CAANet_DCASE_ASC" target="_blank">code</a>]
 
 * F. Dong, K. Qian, Z. Ren, A. Baird, X. Li, Z. Dai, B. Dong, F. Metze, Y. Yamamoto, and B. Schuller, “Machine listening for heart status monitoring: Introducing and benchmarking HSS – the heart sounds Shenzhen corpus,” IEEE Journal of Biomedical and Health Informatics, vol. 24, pp. 2082–2092, Nov. 2019
