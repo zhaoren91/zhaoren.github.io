@@ -22,6 +22,8 @@ Work Experience
 
 Education
 ======
+* 10.2017-2022:
+  * PhD, Universität Augsburg, Germany.
 * 09.2014-03.2017:
   * Master, Northwestern Polytechnical University, China.
 * 09.2009-06.2013:
