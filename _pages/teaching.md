@@ -6,6 +6,10 @@ author_profile: false
 ---
 {% include base_path %}
 
+# Teaching at Leibniz University Hannover
+* SS 2022
+  * Lecture: Artificial Intelligence for Healthcare
+
 # Teaching at University of Augsburg
 * WS 2020/21
   * Praktikum Speech Pathology
