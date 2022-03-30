@@ -19,7 +19,7 @@ author_profile: false
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia, Nice, France, 10.2019.
 
 # Organisation
-* Co-organisation of TAPAS Training Event 6: Industry targeted event with networking, 2021
+* Coordination of TAPAS Training Event 6: Industry targeted event with networking, 2021
 
 # Reviews
 ## Journals
