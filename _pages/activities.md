@@ -18,7 +18,8 @@ author_profile: false
 * Program committee member of the 23rd ACM International Conference on Multimodal Interaction, Montreal, Canada, 10.2021.
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia, Nice, France, 10.2019.
 
-
+# Organisation
+* Co-organisation of TAPAS Training Event 6: Industry targeted event with networking, 2021
 
 # Reviews
 ## Journals
@@ -34,6 +35,7 @@ author_profile: false
 * The Journal of the Acoustical Society of America Express Letters
 * Neural Processing Letters
 * Physiological Measurement
+* Scientific Reports
 
 ## Conferences
 * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
