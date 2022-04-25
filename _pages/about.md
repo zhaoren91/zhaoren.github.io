@@ -16,3 +16,5 @@ Her research interests mainly lie in transfer learning, explainable AI, adversar
 She regularly reviews many journals, such as IEEE Transactions on Cybernetics, IEEE Transactions on Affective Computing, and IEEE Transactions on Multimedia, and conferences, like ICASSP, IJCNN, and EUSIPCO.
 
 
+# Call for Papers
+Special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on IEEE Journal of Biomedical and Health Informatics.
