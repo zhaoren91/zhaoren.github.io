@@ -17,6 +17,7 @@ author_profile: false
 * Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Program Committees
+* Program committee member of the 24th ACM International Conference on Multimodal Interaction,Bangalore, Indian, 11.2022.
 * Program committee member of the 23rd ACM International Conference on Multimodal Interaction, Montreal, Canada, 10.2021.
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia, Nice, France, 10.2019.
 
