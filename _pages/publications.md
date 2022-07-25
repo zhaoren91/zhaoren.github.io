@@ -17,6 +17,10 @@ Please see the full list of her publications in <a href="https://scholar.google.
 * N. Cummins, Z. Ren, A. Mallol-Ragolta, and B. Schuller, Artificial Intelligence in Precision Health, ch. Chapter 5 – Machine learning in digital health, recent trends, and ongoing challenges, pp. 121–148. Elsevier, 2020
 
 ## Journal Articles
+* Ren, Y. Chang, W. Nejdl, and B. Schuller, “Learning complementary representations via attention-based ensemble learning for cough-based COVID-19 recognition,” Acta Acustica, 2022. 4 pages, to appear
+
+* Z. Ren, Y. Chang, K. D. Bartl-Pokorny, F. B. Pokorny, and B. Schuller, “The acoustic dissection of cough: Diving into machine listening-based COVID-19 analysis and detection,” Journal of Voice, 2022. to appear
+
 * Y. Chang, X. Jing, Z. Ren, and B. Schuller, “CovNet: A transfer learning framework for automatic COVID-19 detection from crowd-sourced cough sounds,” Frontiers in Digital Health, vol. 3, pp. 1–11, Jan. 2022 [<a href="https://github.com/ychang74/CovNet" target="_blank">code</a>]
 
 * Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “CAA-Net: Conditional atrous CNNs with attention for explainable device-robust acoustic scene classification,” IEEE Transactions on Multimedia, Nov. 2020. 12 pages [<a href="https://github.com/EIHW/CAANet_DCASE_ASC" target="_blank">code</a>]
@@ -26,6 +30,10 @@ Please see the full list of her publications in <a href="https://scholar.google.
 * Z. Ren, K. Qian, Z. Zhang, V. Pandit, A. Baird, and B. Schuller, “Deep scalogram representations for acoustic scene classification,” IEEE/CAA Journal of Automatica Sinica, vol. 5, pp. 662–669, May 2018
 
 ## Conference Papers
+* Y. Chang, Z. Ren, T. T. Nguyen, W. Nejdl, and B. Schuller, “Example-based explanations with adversarial attacks for respiratory sound analysis,” in Proc. INTERPSEECH, (Incheon, Korea), 2022. to appear [<a href="https://github.com/glam-imperial/soundprototypecriticism" target="_blank">code</a>]
+
+* Z. Ren, T. T. Nguyen, and W. Nejdl, “Prototype learning for interpretable respiratory sound analysis,” in Proc. ICASSP, (Singapore), pp. 9087–9091, 2022 [<a href="https://github.com/L3S/PrototypeSound" target="_blank">code</a>]
+
 * Z. Ren, J. Han, N. Cummins, and B. Schuller, “Enhancing transferability of black-box adversarial attacks via lifelong learning for speech emotion recognition models,” in Proc. INTERSPEECH, (Shanghai, China), pp. 496–500, 2020
 
 * Z. Ren, A. Baird, J. Han, Z. Zhang, and B. Schuller, “Generating and protecting against adversarial attacks for deep speech-based emotion recognition models,” in Proc. ICASSP, (Barcelona, Spain), pp. 7184–7188, 2020 [<a href="https://github.com/EIHW/Adversarial_Attacks_for_SER" target="_blank">code</a>]
