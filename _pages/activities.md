@@ -17,6 +17,7 @@ author_profile: false
 * Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Program Committees
+* Program committee member of the 37th AAAI Conference on Artificial Intelligence, 2022.
 * Technical Program committee member of the ICML Expressive Vocalizations Workshop & Competition (ExVo), 2022.
 * Program committee member of the 24th ACM International Conference on Multimodal Interaction (ICMI), Bangalore, Indian, 11.2022.
 * Program committee member of the 23rd ACM International Conference on Multimodal Interaction (ICMI), Montreal, Canada, 10.2021.
@@ -48,6 +49,7 @@ author_profile: false
 * European Signal Processing Conference (EUSIPCO)
 * ACM International Conference on Multimodal Interaction (ICMI)
 * IEEE International Workshop on Multimedia Signal Processing (MMSP)
+* ACII Affective Vocal Bursts Workshop & Competition
 
 # Impressions
 * “<a href="https://phys.org/news/2018-04-comprehensive-acoustic-scene-analysis-method.html" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>”, in phys.org, 10.04.2018.
