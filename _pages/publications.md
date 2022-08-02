@@ -17,7 +17,7 @@ Please see the full list of her publications in <a href="https://scholar.google.
 * N. Cummins, Z. Ren, A. Mallol-Ragolta, and B. Schuller, Artificial Intelligence in Precision Health, ch. Chapter 5 – Machine learning in digital health, recent trends, and ongoing challenges, pp. 121–148. Elsevier, 2020
 
 ## Journal Articles
-* Ren, Y. Chang, W. Nejdl, and B. Schuller, “Learning complementary representations via attention-based ensemble learning for cough-based COVID-19 recognition,” Acta Acustica, 2022. 4 pages, to appear
+* Z. Ren, Y. Chang, W. Nejdl, and B. Schuller, “Learning complementary representations via attention-based ensemble learning for cough-based COVID-19 recognition,” Acta Acustica, 2022. 4 pages, to appear
 
 * Z. Ren, Y. Chang, K. D. Bartl-Pokorny, F. B. Pokorny, and B. Schuller, “The acoustic dissection of cough: Diving into machine listening-based COVID-19 analysis and detection,” Journal of Voice, 2022. to appear
 
