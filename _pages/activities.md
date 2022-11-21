@@ -45,6 +45,8 @@ author_profile: false
 * Scientific Reports
 
 ## Conferences
+* AAAI Conference on Artificial Intelligence (AAAI)
+* ICML Expressive Vocalizations Workshop & Competition (ExVo)
 * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 * International Joint Conference on Neural Networks (IJCNN)
 * Detection and Classification of Acoustic Scenes and Events Workshop (DCASE)
