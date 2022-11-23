@@ -14,9 +14,9 @@ Work Experience
 * 07.2021-Present: 
   * Research Associate, Leibniz Universität Hannover, Germany.
 * 10.2020-12.2020: 
-  * Internship, audEERING GmbH, Germany.
+  * Research Intern, audEERING GmbH, Germany.
 * 10.2017-07.2021: 
-  * EU-Researcher, Universität Augsburg, Germany.	
+  * Marie-Curie PhD Fellow & Research Assistant, Universität Augsburg, Germany.	
 * 05.2017-09.2017: 
   * Research Assistant, Universität Passau, Germany.
 
