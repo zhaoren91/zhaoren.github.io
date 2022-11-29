@@ -43,6 +43,7 @@ author_profile: false
 * Neural Processing Letters
 * Physiological Measurement
 * Scientific Reports
+* Frontiers in Bioengineering and Biotechnology 
 
 ## Conferences
 * AAAI Conference on Artificial Intelligence (AAAI)
