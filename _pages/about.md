@@ -16,5 +16,7 @@ Her research interests mainly lie in transfer learning, explainable AI, adversar
 She regularly reviews many journals, such as IEEE Transactions on Cybernetics, IEEE Transactions on Affective Computing, and IEEE Transactions on Multimedia, and conferences, like ICASSP, IJCNN, and EUSIPCO.
 
 
-# Call for Papers
-Special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics. 
+# News
+12/2022: I am invited to give a talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, virtual, 12.12.2022.
+
+   2022: Call for papers: Special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics. 
