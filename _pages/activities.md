@@ -7,7 +7,7 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
-* Zhao Ren, "From local to global: explainable AI for computer audition in digital health ", invited research talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, virtual, 12.12.2022.
+* Zhao Ren, "From local to global: explainable AI for computer audition in digital health ", invited research talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, United Kingdom, virtual, 12.12.2022.
 
 * Zhao Ren, "Multi-modal MIMIC-III ICU data: Recent AI breakthroughs", invited research talk at Medizinische Hochschule Hannover, Germany, virtual, 18.01.2022.
 
