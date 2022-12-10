@@ -11,6 +11,8 @@ redirect_from:
 
 Work Experience
 ======
+* 12.2022: 
+  * Visiting Scholar, Institute for Integrated and Intelligent Systems, Griffith University, Australia.
 * 07.2021-Present: 
   * Research Associate, Leibniz Universität Hannover, Germany.
 * 10.2020-12.2020: 
