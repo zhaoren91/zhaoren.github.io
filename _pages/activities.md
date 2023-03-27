@@ -8,7 +8,7 @@ author_profile: false
 
 # Invited Talks
 
-* " Future of healthcare: Opportunities and challenges in computer audition", invited research talk at Community Day of KI-Camp organised by Gesellschaft für Informatik, Germany, virtual, 24.03.2023.
+* "Future of healthcare: Opportunities and challenges in computer audition", invited research talk at Community Day of KI-Camp organised by Gesellschaft für Informatik, Germany, virtual, 24.03.2023.
 
 * "Learning fast and effective speech emotion recognition models with self-distillation", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 24.03.2023.
 
