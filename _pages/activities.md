@@ -7,13 +7,18 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
-* Zhao Ren, "From local to global: explainable AI for computer audition in digital health ", invited research talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, United Kingdom, virtual, 12.12.2022.
 
-* Zhao Ren, "Multi-modal MIMIC-III ICU data: Recent AI breakthroughs", invited research talk at Medizinische Hochschule Hannover, Germany, virtual, 18.01.2022.
+* " Future of healthcare: Opportunities and challenges in computer audition", invited research talk at Community Day of KI-Camp organised by Gesellschaft für Informatik, Germany, virtual, 24.03.2023.
 
-* Zhao Ren, "Towards explainable and robust deep neural networks for computer audition", invited research talk at L3S Research Center, Gottfried Wilhelm Leibniz Universität Hannover, Germany, virtual, 24.02.2021.
+* "Learning fast and effective speech emotion recognition models with self-distillation", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 24.03.2023.
 
-* Zhao Ren, "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
+* "From local to global: Explainable AI for computer audition in digital health ", invited research talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, United Kingdom, virtual, 12.12.2022.
+
+* "Multi-modal MIMIC-III ICU data: Recent AI breakthroughs", invited research talk at Medizinische Hochschule Hannover, Germany, virtual, 18.01.2022.
+
+* "Towards explainable and robust deep neural networks for computer audition", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 24.02.2021.
+
+* "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
 
 # Editors
 * Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.

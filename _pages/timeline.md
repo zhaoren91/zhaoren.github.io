@@ -11,9 +11,9 @@ redirect_from:
 
 Work Experience
 ======
-* 12.2022: 
-  * Visiting Scholar, Institute for Integrated and Intelligent Systems, Griffith University, Australia.
-* 07.2021-Present: 
+* 03.2023-Now: 
+  * Research Associate, Universität Bremen, Germany.
+* 07.2021-03.2023: 
   * Research Associate, Leibniz Universität Hannover, Germany.
 * 10.2020-12.2020: 
   * Research Intern, audEERING GmbH, Germany.
@@ -24,7 +24,7 @@ Work Experience
 
 Education
 ======
-* 10.2017-2022:
+* 10.2017-02.2022:
   * PhD, Universität Augsburg, Germany.
 * 09.2014-03.2017:
   * Master, Northwestern Polytechnical University, China.
