@@ -6,11 +6,15 @@ author_profile: false
 ---
 {% include base_path %}
 
-# Teaching at Leibniz University Hannover
+# At University of Bremen
+* SS 2023
+  * Lecture: Fundamentals of Machine Learning
+
+# At Leibniz University Hannover
 * SS 2022
   * Lecture: Artificial Intelligence for Healthcare
 
-# Teaching at University of Augsburg
+# At University of Augsburg
 * WS 2020/21
   * Praktikum Speech Pathology
   * Tutorial of Speech Pathology
