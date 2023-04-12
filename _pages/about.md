@@ -22,7 +22,7 @@ She regularly reviews many journals, such as IEEE Transactions on Cybernetics, I
 
 02/2023: Congratulations! We have three papers accepted by ICASSP 2023!
 
-02/2022: Welcome to vote! <a href="https://kicamp.org/en/ki-camp-2023/ai-newcomers-2023/detail?tx_gicampaign_listview%5Baction%5D=detail&tx_gicampaign_listview%5Bcontroller%5D=Campaign&tx_gicampaign_listview%5Buser%5D=22715&cHash=0daacd5f05c544c59d018409fc295e51" target="_blank">AI-Newcomer 2023</a> organised by GI and BMBF.
+02/2023: Welcome to vote! <a href="https://kicamp.org/en/ki-camp-2023/ai-newcomers-2023/detail?tx_gicampaign_listview%5Baction%5D=detail&tx_gicampaign_listview%5Bcontroller%5D=Campaign&tx_gicampaign_listview%5Buser%5D=22715&cHash=0daacd5f05c544c59d018409fc295e51" target="_blank">AI-Newcomer 2023</a> organised by GI and BMBF.
 
 12/2022: I am invited to give a talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, United Kingdom, virtual, 12.12.2022.
 
