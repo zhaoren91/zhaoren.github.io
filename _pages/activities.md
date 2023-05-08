@@ -45,7 +45,9 @@ author_profile: false
 * IEEE Journal of Selected Topics in Signal Processing
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
 * IEEE Internet of Things Journal
+* IEEE Signal Processing Letters
 * IEEE Access
+* IEEE Sensors Journal
 * IEEE Sensors Letters
 * The Journal of the Acoustical Society of America
 * The Journal of the Acoustical Society of America Express Letters
