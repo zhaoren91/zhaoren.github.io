@@ -35,7 +35,7 @@ author_profile: false
 
 
 # Chairs
-* Session chair: AI security and privacy in Speech and audio processing, ICASSP, Rhodes, Greece, 2023.
+* Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Organisation
 * Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
