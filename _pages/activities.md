@@ -33,6 +33,10 @@ author_profile: false
 * Program committee member of the 23rd ACM International Conference on Multimodal Interaction (ICMI), Montreal, Canada, 10.2021.
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia (AVEC), Nice, France, 10.2019.
 
+
+# Chairs
+* Session chair: AI security and privacy in Speech and audio processing, ICASSP, Rhodes, Greece, 2023.
+
 # Organisation
 * Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
 * Coordination of TAPAS Training Event 6: Industry targeted event with networking, 2021.
