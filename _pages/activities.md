@@ -25,6 +25,9 @@ author_profile: false
 
 * Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.
 
+# Chairs
+* Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
+
 # Program Committees
 * Program committee member of the 25th ACM International Conference on Multimodal Interaction (ICMI), Paris, France, 2023.
 * Program committee member of the 37th AAAI Conference on Artificial Intelligence, 2022.
@@ -32,10 +35,6 @@ author_profile: false
 * Program committee member of the 24th ACM International Conference on Multimodal Interaction (ICMI), Bangalore, Indian, 11.2022.
 * Program committee member of the 23rd ACM International Conference on Multimodal Interaction (ICMI), Montreal, Canada, 10.2021.
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia (AVEC), Nice, France, 10.2019.
-
-
-# Chairs
-* Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Organisation
 * Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
