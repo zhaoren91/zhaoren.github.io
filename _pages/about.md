@@ -18,6 +18,8 @@ She regularly reviews many journals, such as IEEE Transactions on Cybernetics, I
 
 # News
 
+07/2023: Call for papers: <a href="https://www.frontiersin.org/research-topics/56536/advances-in-computer-audition-for-mental-health-applications" target="_blank">Advances in Computer Audition for Mental Health Applications</a>, co-organised in Frontiers in Digital Health, Frontiers in Psychiatry.
+
 04/2023: Call for papers: <a href="https://www.frontiersin.org/research-topics/54868/intelligent-audition-technologies-for-personalized-healthcare" target="_blank">Intelligent Audition Technologies for Personalized Healthcare</a>, co-organised in Frontiers in Computer Science, Frontiers in Big Data, and Frontiers in Artificial Intelligence.
 
 04/2023: Congratulations! We have two papers accepted by IJCNN 2023!
