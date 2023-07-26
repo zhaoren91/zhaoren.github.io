@@ -17,6 +17,9 @@ She regularly reviews many journals, such as IEEE Transactions on Cybernetics, I
 
 
 # News
+07/2023: Call for papers: <a href="https://sites.google.com/view/m3oriental" target="_blank">Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental)</a>, in ACM Multimedia Asia 2023.
+
+07/2023: Congratulations! We have two papers accepted by ITG 2023!
 
 07/2023: Call for papers: <a href="https://www.frontiersin.org/research-topics/56536/advances-in-computer-audition-for-mental-health-applications" target="_blank">Advances in Computer Audition for Mental Health Applications</a>, co-organised in Frontiers in Digital Health, Frontiers in Psychiatry.
 
