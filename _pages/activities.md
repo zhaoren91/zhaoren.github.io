@@ -32,6 +32,9 @@ author_profile: false
 * Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Program Committees
+* Program committee member of the Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
+* Program committee member of the 1st International Workshop on Data Mining for Mental Disorders held at the 23rd IEEE International Conference on Data Mining (ICDM’23), Shanghai, China, 2023.
+* Program committee member of the 37th AAAI Conference on Artificial Intelligence, 2023.
 * Program committee member of the 25th ACM International Conference on Multimodal Interaction (ICMI), Paris, France, 2023.
 * Program committee member of the 37th AAAI Conference on Artificial Intelligence, 2022.
 * Technical Program committee member of the ICML Expressive Vocalizations Workshop & Competition (ExVo), 2022.
