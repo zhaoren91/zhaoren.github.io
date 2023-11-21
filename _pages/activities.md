@@ -21,6 +21,7 @@ author_profile: false
 * "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
 
 # Editors
+* Guest Associate Editor of Frontiers in Psychiatry.
 
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/56536/advances-in-computer-audition-for-mental-health-applications" target="_blank">Advances in Computer Audition for Mental Health Applications</a>, co-organised in Frontiers in Digital Health, Frontiers in Psychiatry.
 
