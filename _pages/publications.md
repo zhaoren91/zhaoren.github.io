@@ -10,7 +10,7 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-Please see the full list of her publications in <a href="https://scholar.google.com/citations?user=Klrd5CQAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> or <a href="https://www.overleaf.com/read/ntwkbkrzrgxx" target="_blank">Overleaf</a>.
+Please see the full list of her publications in <a href="https://scholar.google.com/citations?user=Klrd5CQAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
 # Selected Publications
 ## Book Chapters
