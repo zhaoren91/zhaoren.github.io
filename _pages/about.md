@@ -19,6 +19,8 @@ She regularly reviews many journals, such as IEEE Transactions on Cybernetics, I
 # News
 12/2023: Call for paper: <a href="hhttps://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare, Cyborg and Bionic Systems</a>, Submission Deadline: June 30, 2024. 
 
+12/2023: Congratulations! We have a paper accepted by the M3Oriental Workshop at ACM Multimedia Asia 2023!
+
 07/2023: Call for papers: <a href="https://sites.google.com/view/m3oriental" target="_blank">Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental)</a>, in ACM Multimedia Asia 2023.
 
 07/2023: Congratulations! We have two papers accepted by ITG 2023!
