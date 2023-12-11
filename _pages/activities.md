@@ -23,6 +23,8 @@ author_profile: false
 # Editors
 * Guest Associate Editor of Frontiers in Psychiatry.
 
+* Guest editor for special issue of <a href="hhttps://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare</a>, in Cyborg and Bionic Systems. 
+
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/56536/advances-in-computer-audition-for-mental-health-applications" target="_blank">Advances in Computer Audition for Mental Health Applications</a>, co-organised in Frontiers in Digital Health, Frontiers in Psychiatry.
 
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/54868/intelligent-audition-technologies-for-personalized-healthcare" target="_blank">Intelligent Audition Technologies for Personalized Healthcare</a>, co-organised in Frontiers in Computer Science, Frontiers in Big Data, and Frontiers in Artificial Intelligence.
