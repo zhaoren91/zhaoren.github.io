@@ -17,11 +17,11 @@ She regularly reviews many journals, such as IEEE Transactions on Cybernetics, I
 
 
 # News
-07/2024: Congratulations! Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0003682X24003293" target="_blank">More than spectrograms: Deep representation learning for machinery fault detection</a> is accepted any published in Applied Acoustics!
-
-07/2024: Congratulations! Our survey paper  is accepted and published in IEEE Computational Intelligence Magazine (IF 2023:10.3)! 
+07/2024: Congratulations! Our survey paper <a href="https://ieeexplore.ieee.org/abstract/document/10595492" target="_blank">A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era</a> is accepted and published in IEEE Computational Intelligence Magazine (IF 2023:10.3)! 
 
 07/2024: Congratulations! We have 3 papers accepted and orally presented in IEEE EMBC 2024!
+
+07/2024: Congratulations! Our paper <a href="https://www.sciencedirect.com/science/article/pii/S0003682X24003293" target="_blank">More than spectrograms: Deep representation learning for machinery fault detection</a> is accepted any published in Applied Acoustics!
 
 12/2023: Call for paper: <a href="hhttps://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare, Cyborg and Bionic Systems</a>, Submission Deadline: June 30, 2024. 
 
