@@ -32,9 +32,16 @@ author_profile: false
 * Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Chairs
+* Session Chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
 * Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Program Committees
+* Program committee member of the 39th AAAI Conference on Artificial Intelligence, 2025.
+* Program committee member of the INTERSPEECH, 2024.
+* Program committee member of the IEEE International Workshop on MultiMedia Signal Processing (MMSP), 2023. 
+* Program committee member of the 26th ACM International Conference on Multimodal Interaction (ICMI), 2024.
+* Program committee member of the 12th International Conference on Affective Computing & Intelligent Interaction (ACII), 2024.
+* Program committee member of the 38th AAAI Conference on Artificial Intelligence, 2024.
 * Program committee member of the 1st International Workshop on Data Mining for Mental Disorders held at the 23rd IEEE International Conference on Data Mining (ICDM’23), Shanghai, China, 2023.
 * Program committee member of the 37th AAAI Conference on Artificial Intelligence, 2023.
 * Program committee member of the 25th ACM International Conference on Multimodal Interaction (ICMI), Paris, France, 2023.
