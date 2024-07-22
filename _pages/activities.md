@@ -32,7 +32,7 @@ author_profile: false
 * Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Chairs
-* Session Chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
+* Session chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
 * Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Program Committees
