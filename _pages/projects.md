@@ -7,6 +7,13 @@ author_profile: false
 {% include base_path %}
 
 <a href="" target="_blank"></a>
+# MyVoice: Myoelectric Vocal Interaction and Communication Engine (funded by DFG)
+*Runtime*: 2022 - 2025
+
+*Abstract*: In this project, Dr. Ren extends her research from audio and speech to biosignals, especially the Electromyography (EMG) signals. The goal is to synthesise speech from EMG signals, thereby helping patients who cannot produce acoustic speech. 
+
+
+<a href="" target="_blank"></a>
 # <a href="https://leibniz-ai-lab.de/" target="_blank">Leibniz AI Lab</a>: International Leibniz Future Laboratory for Artificial Intelligence
 *Runtime*: 2020 - 2023
 
