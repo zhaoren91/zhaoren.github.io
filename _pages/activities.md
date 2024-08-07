@@ -36,6 +36,7 @@ author_profile: false
 * Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Program Committees
+* Program committee member of the Australasian Database Conference, 2024.
 * Program committee member of the 39th AAAI Conference on Artificial Intelligence, 2025.
 * Program committee member of the INTERSPEECH, 2024.
 * Program committee member of the IEEE International Workshop on MultiMedia Signal Processing (MMSP), 2023. 
