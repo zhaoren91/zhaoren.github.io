@@ -7,10 +7,11 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
+* ``The opportunities and challenges of speech technology in IoT'', invited talk at Global Audio Summit, virtual, 07.2024
+
+* "Learning fast and effective speech emotion recognition models with self-distillation", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 05.2023.
 
 * "Future of healthcare: Opportunities and challenges in computer audition", invited research talk at Community Day of KI-Camp organised by Gesellschaft für Informatik, Germany, virtual, 24.03.2023.
-
-* "Learning fast and effective speech emotion recognition models with self-distillation", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 24.03.2023.
 
 * "From local to global: Explainable AI for computer audition in digital health ", invited research talk in the <a href="http://cis.eecs.qmul.ac.uk/school2022.html" target="_blank">Intelligent Sensing Winter School</a> at the Centre for Intelligent Sensing, Queen Mary University of London, United Kingdom, virtual, 12.12.2022.
 
