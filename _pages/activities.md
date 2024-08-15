@@ -7,7 +7,7 @@ author_profile: false
 {% include base_path %}
 
 # Invited Talks
-* ``The opportunities and challenges of speech technology in IoT'', invited talk at Global Audio Summit, virtual, 07.2024
+* “The opportunities and challenges of speech technology in IoT”, invited talk at Global Audio Summit, virtual, 07.2024
 
 * "Learning fast and effective speech emotion recognition models with self-distillation", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 05.2023.
 
