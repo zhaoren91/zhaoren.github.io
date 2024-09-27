@@ -54,7 +54,9 @@ author_profile: false
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia (AVEC), Nice, France, 10.2019.
 
 # Organisation
-* Co-organisation of Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
+* Co-organisation of Workshop on Multi-Biological Sensing Data for Speech and  Language Deterioration Prediction (SpandLDeteriorate) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
+* Co-organisation of the 2nd Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
+* Co-organisation of the 1st Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
 * Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
 * Coordination of TAPAS Training Event 6: Industry targeted event with networking, 2021.
 

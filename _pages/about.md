@@ -17,6 +17,8 @@ She regularly reviews many journals, such as IEEE Transactions on Cybernetics, I
 
 
 # News
+09/2024: Congratulations! Our paper "STAA-Net: A Sparse and Transferable Adversarial Attack for Speech Emotion Recognition" is accepted in IEEE TAFFC!
+
 07/2024: Congratulations! Our survey paper <a href="https://ieeexplore.ieee.org/abstract/document/10595492" target="_blank">A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era</a> is accepted and published in IEEE Computational Intelligence Magazine (IF 2023:10.3)! 
 
 07/2024: Congratulations! We have 3 papers accepted and orally presented in IEEE EMBC 2024!
